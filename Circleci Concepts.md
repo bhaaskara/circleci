@@ -1,0 +1,4 @@
+- SaaS provider for automated builds
+- Github integration
+- Open source friendly - Free tier available
+- Any docker-friendly tech stack
